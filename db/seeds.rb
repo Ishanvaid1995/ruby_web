@@ -31,22 +31,22 @@ company_names = [
 
 # Define company logo filenames
 logo = [
-  "apple.jpg",
-  "apple.jpg",
-  "apple.jpg",
-  "apple.jpg",
-  "apple.jpg",
-  "apple.jpg",
-  "apple.jpg",
-  "apple.jpg",
-  "apple.jpg",
-  "apple.jpg",
-  "apple.jpg",
-  "apple.jpg",
-  "apple.jpg",
-  "apple.jpg",
-  "apple.jpg",
-  "apple.jpg"
+  "logo1.png",
+  "logo2.png",
+  "logo3.png",
+  "logo4.png",
+  "logo5.png",
+  "logo6.png",
+  "logo1.png",
+  "logo2.png",
+  "logo3.png",
+  "logo4.png",
+  "logo5.png",
+  "logo6.png",
+  "logo1.png",
+  "logo2.png",
+  "logo3.png",
+  "logo4.png"
   # Add more logo filenames as needed
 ]
 
